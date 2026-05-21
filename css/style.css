@@ -449,7 +449,7 @@ footer {
 }
 
 /*Small (sm): Smartphone (landscape)*/
-@media (min-width: 576px) {
+@media (min-width: 676px) {
         .home-img,.about-img {
                 width: 65%;
                 max-width: 65%;
